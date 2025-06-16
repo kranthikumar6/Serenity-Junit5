@@ -7,7 +7,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.openqa.selenium.WebDriver;
-
 import static net.serenitybdd.core.Serenity.reportThat;
 import static org.assertj.core.api.Assertions.assertThat;
 

@@ -7,10 +7,8 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.openqa.selenium.WebDriver;
-
 import java.util.List;
 import java.util.stream.Collectors;
-
 import static java.util.Arrays.stream;
 import static net.serenitybdd.core.Serenity.reportThat;
 import static org.assertj.core.api.Assertions.assertThat;

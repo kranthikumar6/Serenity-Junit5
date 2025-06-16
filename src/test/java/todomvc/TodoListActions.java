@@ -5,10 +5,8 @@ import net.serenitybdd.core.steps.UIInteractionSteps;
 import org.openqa.selenium.JavascriptExecutor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import java.util.Arrays;
 import java.util.List;
-
 import static todomvc.TodoEntry.*;
 import static todomvc.TodoListForm.*;
 
